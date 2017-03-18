@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" loadMethod="auto" class="CJTEAdvancedThemeEditor" requireFrameworkVersion="4.0">
+	<getInvolved>
+		<event type="CJTPlugin.load" />
+	</getInvolved>
+</extension>

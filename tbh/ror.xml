@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://thebookhub.in/</title>
+  <link>http://thebookhub.in/</link>
+
+<item>
+     <link>http://thebookhub.in/</link>
+     <title>The Book Hub</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/download.php</link>
+     <title>The Book Hub|Download</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/genie.php</link>
+     <title>The Book Hub|Genie</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/books.php</link>
+     <title>The Book Hub|Books</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/fanfictions.php</link>
+     <title>The Book Hub|Fanfictions</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/ebooks.php</link>
+     <title>The Book Hub|ebooks</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/contact.php</link>
+     <title>The Book Hub|ContactUs</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/team.php</link>
+     <title>The Book Hub</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/mit/index.php</link>
+     <title>The Book Hub</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/review.php</link>
+     <title>The Book Hub</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/disclaimer.php</link>
+     <title>The Book Hub</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://thebookhub.in/mit/course.php</link>
+     <title>The Book Hub|Coursebooks</title>
+     <description>The Book Hub: The all in one website to download novels, course books, send requests to find any ebook, borrow paperbacks from colleagues and a lot more!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
